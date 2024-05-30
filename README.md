@@ -60,9 +60,9 @@
 </div>
 
 <br>
-<!--
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Vantan22&theme=vue-dark&bg_color=20232&hide_border=true&border_radius=5&date_format=j%2Fn%5B%2FY%5D&card_width=1000&card_height=200)](https://git.io/streak-stats)
--->
+
 <br>
 
 ![Vawntan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vantan22&theme=github-compact&area=true&hide_border=true)
